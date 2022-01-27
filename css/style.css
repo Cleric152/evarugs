@@ -200,7 +200,7 @@ img {
     height: 3.3rem;
 }
 .footer__header {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 }
 .footer__decore1 {
     position: absolute;
@@ -225,4 +225,7 @@ img {
     font-weight: 700;
     font-size: 1.4rem;
     line-height: 114%;
+}
+.footer__adress ul li {
+    padding-bottom: 1.5rem;
 }
