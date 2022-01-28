@@ -4,7 +4,7 @@ const swiper = new Swiper('.swiper', {
     speed: 400,
     spaceBetween: 70,
     centeredSlides: true,
-    slideToClicedSlide: true,
+    slideToClickedSlide: true,
     toggle: true,
     breakpoints: {
         320: {
